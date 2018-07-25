@@ -1,0 +1,10 @@
+version: '2'
+
+services:
+  django:
+    build: ./django
+    command: bash -c "python manage.py runserver 0:80"
+    volumes:
+      - ./django/:/django
+    ports:
+      - "80:80"
