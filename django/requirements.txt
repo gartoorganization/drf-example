@@ -1,5 +1,5 @@
 appdirs==1.4.2
-Django==1.10.5
+django>=1.11.19
 djangorestframework==3.9.3
 drfdocs==0.0.11
 packaging==16.8
