@@ -1,6 +1,6 @@
 appdirs==1.4.2
 django>=1.11.19
-djangorestframework==3.9.3
+djangorestframework==3.11.2
 drfdocs==0.0.11
 packaging==16.8
 pyparsing==2.1.10
